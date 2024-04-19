@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.xiaopeng.xui.widget.XCheckedTextView android:textSize="34dp" android:textColor="@color/x_color_text_2" android:gravity="center" android:id="@+id/toggle_title" android:layout_width="348dp" android:layout_height="104dp" android:singleLine="true" android:paddingStart="32dp" android:paddingEnd="32dp"/>
+</merge>
